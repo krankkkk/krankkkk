@@ -2,8 +2,9 @@
 
  - **3 years** of professional programming experience, 4 in total
  - **Advanced in Java**, basic knowlege in C/C#/C++/Kotlin/JavaScript
+ - **DevOps** is a passion of me, with knowlegde in git/gradle/TeamCity/...
  - **Passionate teacher**, top helper on *Together Java*
- - **Academic background** with an Bachelor of Science in Information Technology
+ - **Academic background** (soon™) with an Bachelor of Science in Information Technology
 
 Working as Java Developper / DevOps Engineer for [forcont](https://www.forcont.de/).
 <hr>
