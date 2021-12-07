@@ -2,7 +2,7 @@
 
  - **3 years** of professional programming experience, 4 in total
  - **Advanced in Java**, basic knowlege in Kotlin/Go/C/C#/C++/JavaScript
- - **DevOps** is a passion of me, with knowlegde in git/gradle/TeamCity/...
+ - **DevOps** is a passion of me, with knowlege in git/gradle/TeamCity/...
  - **Passionate teacher**, top helper on *Together Java*
  - **Academic background** (soon™) with an Bachelor of Science in Information Technology
 
