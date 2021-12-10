@@ -1,12 +1,12 @@
 ## Me 🤖 ##
 
- - **3 years** of professional programming experience, 4 in total
+ - **2 years** of professional programming experience, 3 in total
  - **Advanced in Java**, basic knowledge in Kotlin/Go/C/C#/C++/JavaScript
  - **DevOps** is a passion of me, with knowledge in git/gradle/TeamCity/...
  - **Passionate teacher**, top helper on *Together Java*
  - **Academic background** (soon™) with an Bachelor of Science in Information Technology
 
-Working as Java Developper / DevOps Engineer for [forcont](https://www.forcont.de/).
+Working as Java Developer / DevOps Engineer for [forcont](https://www.forcont.de/).
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=krankkkk&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krankkkk&theme=github_dark&layout=compact&card_width=445&langs_count=10&hide=HTML&hide_border=true"/>
